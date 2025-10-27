@@ -46,7 +46,8 @@ p {
 }
 
 .image-electronics, .image-stage-effects {
-	
+	border: 2px red solid;
+	padding: 10px;
 }
 
 .record-label {
