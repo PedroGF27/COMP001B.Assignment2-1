@@ -75,5 +75,9 @@ p {
 }
 
 #text-intro {
-	
+	color: red;
+	background-color: grey;
+	border: 2px red solid;
+	padding: 15px;
+	margin: 15px;
 }
