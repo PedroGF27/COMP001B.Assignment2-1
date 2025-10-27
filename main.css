@@ -37,7 +37,8 @@ p {
 }
 
 .album-art {
-
+	border: 2px red solid;
+	padding: 10px;
 }
 
 .clear {
