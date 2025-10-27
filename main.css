@@ -30,7 +30,10 @@ h3 {
 }
 
 p {
-
+	font-size: 1em;
+	float: right;
+	width: 850px;
+	padding: 9px
 }
 
 .album-art {
