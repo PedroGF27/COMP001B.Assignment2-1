@@ -31,12 +31,11 @@ h3 {
 
 p {
 	font-size: 1em;
-	float: right;
-	width: 850px;
-	padding: 9px
+
 }
 
 .album-art {
+	float: left;
 	border: 2px red solid;
 	padding: 10px;
 }
@@ -46,28 +45,33 @@ p {
 }
 
 .image-electronics, .image-stage-effects {
+	float: left;
 	border: 2px red solid;
 	padding: 10px;
 }
 
 .record-label {
-
+ color: red;
 }
 
 .track-list {
-
+	float: right;
+	width: 250px;
+	padding: 10;
 }
 
 #about-photo {
-
+ border: 2px red solid;
 }
 
 #copyright {
-
+	color: red;
 }
 
 #section-about, #section-discography, #section-equipment {
-
+	border: 2px red solid;
+	padding: 15px;
+	margin: 15px;
 }
 
 #text-intro {
